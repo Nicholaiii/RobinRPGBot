@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Robin RPG bot
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.1.0
 // @description  try to take over the world, one beast at a time!
 // @author       /u/nicholaiii
 // @include      https://www.reddit.com/robin*
