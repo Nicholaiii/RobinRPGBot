@@ -5,7 +5,7 @@
 // @description  try to take over the world, one beast at a time!
 // @author       /u/nicholaiii
 // @include      https://www.reddit.com/robin*
-// @updateURL    
+// @updateURL    https://raw.githubusercontent.com/Nicholaiii/RobinRPGBot/master/RobinRPGBot.js
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @grant        unsafeWindow
 // ==/UserScript==
